@@ -1,5 +1,5 @@
 import { getCache, setCache } from "@/utils/Cache";
-import { getListedIssues } from "@/utils/GSheetToIssues";
+// import { getListedIssues } from "@/utils/GSheetToIssues";
 import { NextRequest, NextResponse } from "next/server";
 
 export const dynamic = "force-dynamic";
